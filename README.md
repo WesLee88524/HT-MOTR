@@ -11,7 +11,7 @@
 #### **Northwestern Polytechnical University**
 
 ## Latest 
-- `2026/02/22`: Our work has been accepted by IEEE TMM. Our code and models are coming soon!
+- `2026/02/28`: Our work has been accepted by IEEE TMM. Our code and models are coming soon!
 
 <br>
 <details>
